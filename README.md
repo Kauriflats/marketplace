@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16A34A,50:0EA5E9,100:7C3AED&text=Kauriflats&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=New%20Zealand%20Marketplace%20for%20Listings,%20Services,%20Rentals%20%26%20Local%20Business&descSize=17&descAlignY=62" alt="Kauriflats animated header" />
+Kauriflats Marketplace
 
 <br />
 
